@@ -1,0 +1,13 @@
+{
+    "name": "js-tree-doc",
+    "version": "0.0.1",
+    "description": "A simple XML Document for JavaScript",
+    "author": "",
+    "license": "MIT",
+    "scripts" : {
+        "test" : "mocha"
+    },
+    "dependencies": {
+        "sax": "^1.2.4"
+    }
+}
